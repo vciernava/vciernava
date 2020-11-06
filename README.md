@@ -6,4 +6,4 @@
 - ⚡ Fun fact: Everything for me started with Minecraft
 
 #### 🎧 Spotify
-[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21ab65suymovpaxvhk4v3rmgq?si=8hGRqUkASr2igR-Hw5qngw)
+[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21ab65suymovpaxvhk4v3rmgq)
