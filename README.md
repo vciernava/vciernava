@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Viktor Čierňava</h1>
+<h1 align="center">Hi, I'm Yuki Kobayashi</h1>
 
-#### I'm a IT Student from Czech republic.
+#### I'm a IT Student from Japan.
 - ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.java`
 - 🥅 2020 Goals: Just sleep, and graduate school.
 - ⚡ Fun fact: Everything for me started with Minecraft
