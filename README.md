@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yuki Kobayashi</h1>
+<h1 align="center">Hi, I'm Čierňava Viktor</h1>
 
 #### I'm a IT Student from Japan.
 - ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.java`
