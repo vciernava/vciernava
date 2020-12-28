@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Čierňava Viktor</h1>
 
-#### I'm a IT Student from Japan.
+#### I'm a IT Student from Czech Republic.
 - ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.java`
 - 🥅 2020 Goals: Just sleep, and graduate school.
 - ⚡ Fun fact: Everything for me started with Minecraft
