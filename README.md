@@ -2,7 +2,7 @@
 
 #### I'm a IT Student from Czech Republic.
 - ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.scss` 
-- 🥅 2021 Goals: Just sleep, and graduate school.
+- 🥅 2021 Goals: Just program, and graduate school.
 - ⚡ Fun fact: Everything for me started with Minecraft
 
 #### 🎧 Spotify
