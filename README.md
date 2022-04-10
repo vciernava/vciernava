@@ -8,10 +8,10 @@
 #### 🎧 Spotify
 [![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21ab65suymovpaxvhk4v3rmgq)
 
-### 😂 Here is a random joke that'll make you laugh!
+#### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### 📈 GitHub Stats
+#### 📈 GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ciernava-Viktor&show_icons=true)
 
 #### 🛠️ Languages and Tools
@@ -29,8 +29,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /><br />
 
-### ⭐ Most Used Languages
+#### ⭐ Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciernava-Viktor&theme=blue-green)
 
-### 👀 Profile View Counter
+#### 👀 Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ciernava-Viktor)
