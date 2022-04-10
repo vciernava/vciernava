@@ -34,6 +34,3 @@
 
 #### 👀 Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ciernava-Viktor)
-
-#### 👀 Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Ciernava-Viktor/)
