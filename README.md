@@ -12,7 +12,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 #### 📈 GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ciernava-Viktor&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vciernava&show_icons=true)
 
 #### 🛠️ Languages and Tools
 <img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
@@ -30,7 +30,7 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /><br />
 
 #### ⭐ Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciernava-Viktor&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vciernava&theme=blue-green)
 
 #### 👀 Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ciernava-Viktor)
