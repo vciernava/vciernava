@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Čierňava Viktor</h1>
 
 #### I'm a IT Student from Czech Republic.
-- ⚙️ I use daily: `.cs`, `.js`, `.java`, `php`, `.html`, `.hbs`, `.css`, `.sass` 
+- ⚙️ I use daily: `.cs`, `.js`, `.java`, `.php`, `.html`, `.hbs`, `.css`, `.sass` 
 - 🥅 2022 Goals: Make name in world and graduate from my study.
 - ⚡ Fun fact: Everything for me started with Minecraft.
 
