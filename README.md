@@ -5,9 +5,6 @@
 - 🥅 2022 Goals: Make name in world and graduate from my study.
 - ⚡ Fun fact: Everything for me started with Minecraft.
 
-#### 🎧 Spotify
-[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21ab65suymovpaxvhk4v3rmgq)
-
 #### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
