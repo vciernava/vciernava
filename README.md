@@ -14,14 +14,14 @@
   </h1>
 </div>
 
-#### 👨‍💻 About Me :
+### 👨‍💻 About Me :
 I am a fullstack developer and linux technician from Czech Republic
 - 💼 Currently working at [Webdevel.cz](https://webdevel.cz/) (Web Developer), [DDM Orlová](https://www.ddmorlova.cz/) (Teacher)
 - ⚡ In my free time, I work as a freelancer and read tech articles.
 - ✉️ How to reach me: [E-mail](mailto://kontakt@viktorciernava.eu)
 ---
 
-#### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <div>
   <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -42,7 +42,7 @@ I am a fullstack developer and linux technician from Czech Republic
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-</div><br />
+<br /></div>
 
 
 ---
