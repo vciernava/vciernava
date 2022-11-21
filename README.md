@@ -42,7 +42,7 @@ I am a fullstack developer and linux technician from Czech Republic
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-</div>
+</div><br />
 
 ---
 
