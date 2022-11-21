@@ -4,6 +4,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.php`, `.sass`, `.cs`, `.cpp`, `.java`, `.kotlin`
 - 🥅 2022 Goals: Make name in world and graduate from my study.
 - ⚡ Fun fact: Everything for me started with Minecraft.
+- 💼 Currently working at **[Webdevel.cz](https://webdevel.cz/)** (Web Developer), **[DDM Orlová](https://www.ddmorlova.cz/)** (Teacher), **freelance web developer**
 
 #### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -27,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /><br />
 <img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 #### ⭐ Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vciernava&theme=blue-green)
