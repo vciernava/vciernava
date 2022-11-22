@@ -6,6 +6,9 @@
     <a href="https://twitter.com/v_ciernava">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+        <a href="https://www.behance.net/vciernava">
+      <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=vciernava&style=flat-square&color=blue" alt=""/>
   <h1>
