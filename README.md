@@ -18,7 +18,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a fullstack developer and Linux technician from Czech Republic
+I am a Full-Stack developer and Linux technician from Czech Republic
 - 💼 Currently working at [Webdevel.cz](https://webdevel.cz/) (Web Developer, Remote), [DDM Orlová](https://www.ddmorlova.cz/) (Teacher, On-site)
 - ⚡ In my free time, I work as a freelancer and read tech articles.
 - ✉️ How to reach me: [E-mail](mailto://kontakt@viktorciernava.eu)
