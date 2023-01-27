@@ -18,9 +18,9 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Full-Stack developer and Linux technician from Czech Republic
-- 💼 Currently working at [Webdevel.cz](https://webdevel.cz/) (Web Developer, Remote), [DDM Orlová](https://www.ddmorlova.cz/) (Teacher, On-site)
-- ⚡ In my free time, I work as a freelancer and read tech articles.
+I am a Self Employed Software Engineer from Czech Republic
+- 💼 Currently working on project Plancy.
+- ⚡ In my free time, I work watch videos and read articles about tech.
 - ✉️ How to reach me: [E-mail](mailto://kontakt@viktorciernava.eu)
 ---
 
