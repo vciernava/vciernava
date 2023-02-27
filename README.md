@@ -1,6 +1,6 @@
 <div class="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/viktor-%C4%8Dier%C5%88ava-793758234/">
+    <a href="linkedin.com/in/vciernava/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/v_ciernava">
