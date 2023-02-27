@@ -18,7 +18,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Self Employed Software Engineer from Czech Republic
+I am a Software Engineer from Czech Republic
 - 💼 Currently working on project Plancy.
 - ⚡ In my free time, I work watch videos and read articles about tech.
 - ✉️ How to reach me: [E-mail](mailto://ciernava@darklabs.cz)
