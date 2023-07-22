@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me :
 I am a Software Engineer from Czech Republic
 - 💼 Currently working on freelance projects.
-- ⚡ In my free time, I read book about new technologies and play games.
+- ⚡ In my free time, I read books about new technologies and play games.
 - ✉️ How to reach me: [E-mail](mailto://ciernava@darklabs.cz)
 ---
 
