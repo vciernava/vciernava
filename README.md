@@ -1,6 +1,6 @@
 <div class="header" align="center">
   <div id="badges">
-    <a href="https://twitter.com/RotzZik">
+    <a href="https://twitter.com/vciernava">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
