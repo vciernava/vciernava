@@ -15,7 +15,7 @@
 I am a Software Engineer from Czech Republic
 - 💼 Currently working on freelance projects.
 - ⚡ In my free time, I read books about new technologies and play games.
-- ✉️ How to reach me: [E-mail](mailto://ciernava@darklabs.cz)
+- ✉️ How to reach me: [E-mail](mailto://contact@viktorciernava.eu)
 ---
 
 ### 🛠️ Languages and Tools :
