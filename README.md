@@ -4,40 +4,45 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=vciernava&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=vciernava&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave" />
   </h1>
 </div>
 
 ### 👨‍💻 About Me :
 I am a Software Engineer from Czech Republic
-- 💼 Currently working on freelance projects.
+- 💼 I do freelance work, for more visit my [website](https://www.viktorciernava.eu/)
 - ⚡ In my free time, I read books about new technologies and play games.
 - ✉️ How to reach me: [E-mail](mailto://contact@viktorciernava.eu)
 ---
 
+### 🚀 What am I Part of :
+- [ETF2L](https://etf2l.org/) - Product Engineer
+- [TF2Center](https://tf2center.com/) - Product Engineer
+---
+
 ### 🛠️ Languages and Tools :
 <div>
-  <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-  <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-  <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
-  <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" />
-  <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-  <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/white" alt="typescript">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/php/white" alt="php">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/csharp/white" alt="csharp">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/python/white" alt="python">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/go/white" alt="go">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/ruby/white" alt="ruby">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/white" alt="kotlin">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/spring/white" alt="spring">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/springboot/white" alt="springboot">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/react/white" alt="react">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/laravel/white" alt="laravel">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/rubyonrails/white" alt="rubyonrails">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/kubernetes/white" alt="kubernetes">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/docker/white" alt="docker">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/git/white" alt="git">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/github/white" alt="github">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gitlab/white" alt="gitlab">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/stripe/white" alt="stripe">
 </div><br />
 
 
