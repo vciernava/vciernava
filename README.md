@@ -3,16 +3,18 @@
     <a href="https://twitter.com/vciernava">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/vciernava">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=vciernava&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="display: inline-block;" alt="Wave" />
+    Hey there ✌️ I'm Viktor, a software engineer
   </h1>
 </div>
 
 ### 👨‍💻 About Me :
-I am a Software Engineer from Czech Republic
+I am 20 years old computer science student from Czech Republic.
 - 💼 I do freelance work, for more visit my [website](https://www.viktorciernava.eu/)
 - ⚡ In my free time, I read books about new technologies and play games.
 - ✉️ How to reach me: [E-mail](mailto://contact@viktorciernava.eu)
