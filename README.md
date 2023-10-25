@@ -17,7 +17,7 @@
 I am 20 years old computer science student from Czech Republic.
 - 💼 I do freelance work, for more visit my [website](https://www.viktorciernava.eu/)
 - ⚡ In my free time, I read books about new technologies and play games.
-- ✉️ How to reach me: [E-mail](mailto://contact@viktorciernava.eu)
+- ✉️ How to reach me: [E-mail](mailto://kontakt@viktorciernava.eu)
 ---
 
 ### 🚀 What am I Part of :
