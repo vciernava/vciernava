@@ -21,6 +21,7 @@ I am 20 years old computer science student from Czech Republic.
 ---
 
 ### 🚀 What am I Part of :
+- [Darkanian](https://news.darkanian.eu/) - Founder
 - [ETF2L](https://etf2l.org/) - Product Engineer
 - [TF2Center](https://tf2center.com/) - Product Engineer
 ---
