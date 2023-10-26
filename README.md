@@ -26,26 +26,26 @@ I am 20 years old computer science student from Czech Republic.
 - [TF2Center](https://tf2center.com/) - Product Engineer
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Technologies I Use Daily :
 <div>
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/white" alt="typescript">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/php/white" alt="php">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/csharp/white" alt="csharp">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/python/white" alt="python">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/go/white" alt="go">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/ruby/white" alt="ruby">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/white" alt="kotlin">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/spring/white" alt="spring">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/springboot/white" alt="springboot">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/react/white" alt="react">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/laravel/white" alt="laravel">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/rubyonrails/white" alt="rubyonrails">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/kubernetes/white" alt="kubernetes">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/docker/white" alt="docker">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/git/white" alt="git">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/github/white" alt="github">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/gitlab/white" alt="gitlab">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/stripe/white" alt="stripe">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/php/white" alt="PHP">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/csharp/white" alt="CSharp">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/python/white" alt="Python">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/go/white" alt="Go">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/white" alt="Kotlin">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/react/white" alt="React">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/vue.js/white" alt="Vue.js">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/symfony/white" alt="Symfony">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/laravel/white" alt="Laravel">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/tailwindcss/white" alt="TailwindCSS">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/kubernetes/white" alt="Kubernetes">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/docker/white" alt="Docker">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/mysql/white" alt="Mysql">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/mongodb/white" alt="MongoDB">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/git/white" alt="Git">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gitlab/white" alt="GitLab">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/github/white" alt="GitHub">
 </div><br />
 
 
