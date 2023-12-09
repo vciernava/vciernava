@@ -37,10 +37,3 @@ I am 20 years old computer science student from Czech Republic.
   <img align="left" width="26px" src="https://cdn.simpleicons.org/mysql/white" alt="Mysql">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/mongodb/white" alt="MongoDB">
 </div><br />
-
-
----
-
-### 🔥 My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=vciernava&theme=dark&theme=highcontrast)](https://git.io/streak-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vciernava&layout=compact&theme=vision-friendly-dark&PAT_1=true)](https://github.com/anuraghazra/github-readme-stats)
