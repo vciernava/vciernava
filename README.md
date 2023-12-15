@@ -28,7 +28,7 @@ I am 20 years old computer science student from Czech Republic.
 <div>
   <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/python/white" alt="Python">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/java/white" alt="Java">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/spring/white" alt="Spring">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/react/white" alt="React">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/white" alt="NextJs">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/tailwindcss/white" alt="TailwindCSS">
