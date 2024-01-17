@@ -13,19 +13,19 @@
   </h1>
 </div>
 
-### 👨‍💻 About Me :
+### 👨‍💻 About me :
 I am 20 years old computer science student from Czech Republic.
 - ⚡ In my free time, I read books about new technologies and play games.
 - ✉️ How to reach me: [E-mail](mailto://kontakt@viktorciernava.eu)
 ---
 
-### 🚀 What am I Part of :
+### 🚀 I go with small projects and start-ups too :
 - [Krtminec](https://krtminec.cz/)
 - [ETF2L](https://etf2l.org/)
 - [TF2Center](https://tf2center.com/)
 ---
 
-### 🛠️ Technologies I Use Daily :
+### 🛠️ Technologies I use daily :
 <div>
   <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/python/white" alt="Python">
