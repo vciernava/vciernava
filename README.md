@@ -20,6 +20,7 @@ I am 20 years old computer science student from Czech Republic.
 ---
 
 ### 🚀 I go with small projects and start-ups too :
+- [GamerHost](https://gamerhost.pro/)
 - [ETF2L](https://etf2l.org/)
 - [TF2Center](https://tf2center.com/)
 ---
