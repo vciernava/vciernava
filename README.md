@@ -16,6 +16,7 @@
 ### 👨‍💻 About me :
 I am 20 years old computer science student from Czech Republic.
 - ⚡ In my free time, I read books about new technologies and play games.
+- ❤︎ Linux enthusiast, I am in love with Fedora and Arch Linux distros.
 - 🧙‍♂️ Find your best way to reach me [check out my website](https://viktorciernava.eu)
 ---
 
@@ -27,14 +28,20 @@ I am 20 years old computer science student from Czech Republic.
 
 ### 🛠️ Technologies I use daily :
 <div>
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/python/white" alt="Python">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/kotlin/white" alt="Kotlin">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/react/white" alt="React">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/next.js/white" alt="NextJs">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/tailwindcss/white" alt="TailwindCSS">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/docker/white" alt="Docker">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/prisma/white" alt="Prisma">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/mysql/white" alt="Mysql">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/mongodb/white" alt="MongoDB">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="Java">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu">
 </div><br />
