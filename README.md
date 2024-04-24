@@ -9,7 +9,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=vciernava&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>
-    Hey there ✌️ I'm Viktor, a full-stack Developer
+    Hey there ✌️ I'm Viktor, a software engineer
   </h1>
 </div>
 
