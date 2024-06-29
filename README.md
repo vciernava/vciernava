@@ -17,7 +17,7 @@
 I'm a 20-year-old Computer Science student from the Czech Republic. Currently, I work full-time at [Lemenio](https://lemenio.com) while also pursuing my passion for creating innovative startup projects.
 - ⚡ In my free time, I enjoy reading about new technologies and gaming.
 - ❤︎ Linux enthusiast, especially fond of Fedora and Arch Linux distros.
-- 🧙‍♂️ Find out more on my [website](https://viktorciernava.eu).
+- 🧙‍♂️ Find out more on my [website](https://viktorciernava.link).
 
 ---
 
