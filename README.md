@@ -62,3 +62,8 @@ I'm a 20-year-old Computer Science student from the Czech Republic. Currently, I
 ---
 
 Feel free to connect with me via [Twitter](https://twitter.com/vciernava) or [LinkedIn](https://www.linkedin.com/in/vciernava)!
+
+---
+
+### 🌐 Join DigitalOcean Community :
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c7b28fddea2d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
