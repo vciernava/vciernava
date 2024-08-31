@@ -14,18 +14,19 @@
 </div>
 
 ### 👨‍💻 About Me :
-I'm a 20-year-old Computer Science student from the Czech Republic. Currently, I work full-time at [Lemenio](https://lemenio.com) while also pursuing my passion for creating innovative startup projects.
+I'm a software engineer out of Czech Republic specializing in building and designing exceptional digital experiences.
 - ⚡ In my free time, I enjoy reading about new technologies and gaming.
 - ❤︎ Linux enthusiast, especially fond of Fedora and Arch Linux distros.
 - 🧙‍♂️ Find out more on my [website](https://www.ciernava.cz).
 
 ---
 
-### 🚀 Projects and Startups :
+### 🚀 Where do I create :
+- **Lemenio**: [Visit Site](https://lemenio.com/)
 - **ETF2L**: [Visit Site](https://etf2l.org/)
 - **TF2Center**: [Visit Site](https://tf2center.com/)
 
-### 🧁 My Startup Projects :
+### 🧁 What I started :
 - **Apptivo**: [Visit Site](https://apptivo.cz/)
 
 ---
@@ -50,14 +51,6 @@ I'm a 20-year-old Computer Science student from the Czech Republic. Currently, I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="26px">
 </div>
 <br/>
-
----
-
-### 📊 GitHub Statistics :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vciernava&show_icons=true&theme=radical" alt="Viktor's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vciernava&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
 ---
 
