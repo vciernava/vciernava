@@ -17,7 +17,7 @@
 I'm a software engineer out of Czech Republic specializing in building and designing exceptional digital experiences.
 - ⚡ In my free time, I enjoy reading about new technologies and gaming.
 - ❤︎ Linux enthusiast, especially fond of Fedora and Arch Linux distros.
-- 🧙‍♂️ Find out more on my [website](https://www.ciernava.cz).
+- 🦄 Find out more on my [website](https://www.ciernava.cz).
 
 ---
 
@@ -40,7 +40,6 @@ I'm a software engineer out of Czech Republic specializing in building and desig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="26px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="26px">
