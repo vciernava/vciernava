@@ -22,12 +22,9 @@ I'm a software engineer out of Czech Republic specializing in building and desig
 ---
 
 ### 🚀 Where do I create :
-- **Lemenio**: [Visit Site](https://lemenio.com/)
+- **Creatioons**: [Visit Site](https://creatioons.com/)
 - **ETF2L**: [Visit Site](https://etf2l.org/)
 - **TF2Center**: [Visit Site](https://tf2center.com/)
-
-### 🧁 What I started :
-- **Apptivo**: [Visit Site](https://apptivo.cz/)
 
 ---
 
