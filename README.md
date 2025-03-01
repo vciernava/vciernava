@@ -9,35 +9,30 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=vciernava&style=flat-square&color=blue" alt="Profile Views"/>
   <h1>
-    Hey there ✌️ I'm Viktor, a Software Engineer
+    Hey there ✌️ I'm Viktor, a Solo Developer
   </h1>
 </div>
 
 ### 👨‍💻 About Me :
-I'm a software engineer out of Czech Republic specializing in building and designing exceptional digital experiences.
+I am building and shipping solo products out of Czech Republic.
 - ⚡ In my free time, I enjoy reading about new technologies and gaming.
 - ❤︎ Linux enthusiast, especially fond of Fedora and Arch Linux distros.
 - 🦄 Find out more on my [website](https://www.ciernava.cz).
 
 ---
 
-### 🚀 Where do I create :
-- **Creatioons**: [Visit Site](https://creatioons.com/)
-- **ETF2L**: [Visit Site](https://etf2l.org/)
-- **TF2Center**: [Visit Site](https://tf2center.com/)
+### 🚀 What am I shipping :
+- **Emanti**: A booking SaaS [[Visit Site]](https://emanti.cz/)
 
 ---
 
 ### 🛠️ Technologies I Use Daily :
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="Elixir" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="26px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="26px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="26px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="26px">
