@@ -21,11 +21,6 @@ I am building and shipping solo products out of Czech Republic.
 
 ---
 
-### 🚀 What am I shipping :
-- **Emanti**: A booking SaaS [[Visit Site]](https://emanti.cz/)
-
----
-
 ### 🛠️ Technologies I Use Daily :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="26px">
